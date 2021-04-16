@@ -1,4 +1,4 @@
-# CLUBHOUSE BIO BY PIXEL ART
+# CLUBHOUSE BIO BY PIXEL ART :wave:
 
 ## 缘起(第一个例子)
 
@@ -6,4 +6,5 @@
 
 ## 准备工作
 
-### 资源站点
+* 资源站点 https://www.pinterest.com/
+* 关键词 
