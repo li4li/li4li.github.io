@@ -15,7 +15,6 @@
 
 | 图片参考  | 复制代码 |
 | --- | --- |
-| ![微信图片_20210417003940](https://user-images.githubusercontent.com/81325606/115056472-7cb07200-9f15-11eb-9da3-4c6bd85636c6.png)
-  | ```js``` |
+| ![微信图片_20210417003940](https://user-images.githubusercontent.com/81325606/115056472-7cb07200-9f15-11eb-9da3-4c6bd85636c6.png) | `git status` |
 | Content Cell  | Content Cell  |
 
