@@ -7,5 +7,4 @@
 ## 准备工作
 
 * 资源站点 https://www.pinterest.com/
-* 关键词 
-🟥
+* 关键词 `pixel art` `pixel art 8bit`
