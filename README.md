@@ -9,8 +9,13 @@
 * 资源站点 https://www.pinterest.com/
 * 关键词 `pixel art` `pixel art 8bit`
 * 工具 VSCODE https://code.visualstudio.com/
-* WIN10 调出 emoji 输入  `WIN+;`
+* WIN10 调出 emoji 快捷键  `WIN+;`
 
 ## 示例
 
+| 图片参考  | 复制代码 |
+| --- | --- |
+| ![微信图片_20210417003940](https://user-images.githubusercontent.com/81325606/115056472-7cb07200-9f15-11eb-9da3-4c6bd85636c6.png)
+  | Content Cell  |
+| Content Cell  | Content Cell  |
 
