@@ -1,1 +1,11 @@
 theme: jekyll-theme-modernist
+
+# Site
+title: LI4LI的苹果树
+author: li4li
+language: en
+timezone: 'Asia/Shanghai'
+
+# URL
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+url: https://li4li.com
