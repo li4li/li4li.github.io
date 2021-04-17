@@ -10,4 +10,4 @@ timezone: 'Asia/Shanghai'
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://li4li.com
 
-show_downloads: "false"
+show_downloads: 'false'
