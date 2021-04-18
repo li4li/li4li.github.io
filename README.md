@@ -6,13 +6,8 @@
 
 ## 视频教程
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/xI4NBfvRjK0" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![视频教程](https://cdn.jsdelivr.net/gh/li4li/li4li.github.io@latest/videoCover-clubhouse-bio-by-emoji-pixel-art.png)](https://youtu.be/xI4NBfvRjK0 "用表情符号像素画装饰 CLUBHOUSE BIO")
 
-[![视频教程](https://img.youtube.com/vi/xI4NBfvRjK0/sddefault.jpg)](https://youtu.be/xI4NBfvRjK0 "用表情符号像素画装饰 CLUBHOUSE BIO")
 
 ## 准备工作
 
