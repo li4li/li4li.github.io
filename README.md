@@ -12,6 +12,8 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
+[![视频教程](https://img.youtube.com/vi/xI4NBfvRjK0/sddefault.jpg)](https://youtu.be/xI4NBfvRjK0 "用表情符号像素画装饰 CLUBHOUSE BIO")
+
 ## 准备工作
 
 * 资源站点 https://www.pinterest.com/
